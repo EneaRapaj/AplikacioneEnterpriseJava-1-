@@ -1,0 +1,3 @@
+[submodule "Laboratori3/project-1-spring-data-jpa"]
+	path = Laboratori3/project-1-spring-data-jpa
+	url = https://github.com/giantconiku/project-1-spring-data-jpa.git
